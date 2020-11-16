@@ -1,16 +1,16 @@
 # Distance Converter App
 
-Convert distance from Miles to Kilometers.
+Convert distance from Miles to Kilometers and Kilometers to Miles. Developed in Android Studio.
 
 Created By [Mayank Phadke](http://mayank-phadke.github.io/)
 
 ---
 Screenshots -
 
-[Screenshot 1](./screenshots/1.jpg)
+<img src="./screenshots/1.jpg" height="500">
 
-[Screenshot 2](./screenshots/2.jpg)
+<img src="./screenshots/2.jpg">
 
-[Screenshot 3](./screenshots/3.jpg)
+<img src="./screenshots/3.jpg" height="500">
 
-[Screenshot 4](./screenshots/4.jpg)
+<img src="./screenshots/4.jpg">
