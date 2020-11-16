@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Distance Converter</string>
+    <string name="miles_to_kilometers">Miles to Kilometers</string>
+    <string name="kilometers_to_miles">Kilometers to Miles</string>
+    <string name="conversionText">Conversion:</string>
+    <string name="miles_value">Miles Value</string>
+    <string name="kilometers_value">Kilometers Value</string>
+    <string name="convertButton">Convert</string>
+    <string name="clearButton">Clear</string>
+    <string name="conversion_history">Conversion History:</string>
+    <string name="shared_pref_key">SHARED_PREF_KEY</string>
+    <string name="selection_key">SELECTION_KEY</string>
+</resources>
