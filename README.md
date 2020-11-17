@@ -5,7 +5,7 @@ Convert distance from Miles to Kilometers and Kilometers to Miles. Developed in 
 Created By [Mayank Phadke](http://mayank-phadke.github.io/)
 
 ---
-Screenshots -
+## Screenshots -
 
 <img src="./screenshots/1.jpg" height="500">
 
