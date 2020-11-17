@@ -9,8 +9,8 @@ Created By [Mayank Phadke](http://mayank-phadke.github.io/)
 
 <img src="./screenshots/1.jpg" height="500">
 
-<img src="./screenshots/2.jpg">
+<img src="./screenshots/2.jpg" width="500">
 
 <img src="./screenshots/3.jpg" height="500">
 
-<img src="./screenshots/4.jpg">
+<img src="./screenshots/4.jpg" width="500">
